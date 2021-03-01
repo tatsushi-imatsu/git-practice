@@ -1,2 +1,2 @@
 hoge
-からのhage
+hge
